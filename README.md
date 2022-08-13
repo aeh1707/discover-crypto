@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Neuromatch 4.0 Conference
+# Discover Crypto
 
 > A crypto market app that showcases different top coins with their respective info, built using React and styled with pure CSS. the info is fetched from CoinGecko website.
 
