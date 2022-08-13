@@ -13,7 +13,7 @@ Check out a demo explanation about this project here [Live Video Demo Explainer]
 
 ## Live Demo
 
-[Live Demo Link](https://aeh1707.github.io/)
+[Live Demo Link](https://62f811c7fc1ab26bc1a08fba--chic-pony-fac330.netlify.app/)
 
 ## Original Design by
 👤 **Nelson Sakwa**
