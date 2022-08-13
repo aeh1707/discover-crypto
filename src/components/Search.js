@@ -1,3 +1,4 @@
+import './Search.css';
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setSearchTerm, selectSearchTerm } from '../redux/searchReducer';
