@@ -5,6 +5,10 @@
   flex-wrap: wrap;
 }
 
+a {
+  text-decoration: none;
+}
+
 a:nth-child(odd) {
   background-color: #486aad;
 }
@@ -21,10 +25,6 @@ a:nth-child(even) {
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
-
-a {
-  text-decoration: none;
 }
 
 .coin-image-container {
