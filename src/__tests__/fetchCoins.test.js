@@ -2,5 +2,5 @@
 import fetchCoins from '../redux/cryptoReducer';
 
 it('fetchCoins should return a promise', () => {
-  expect(fetchCoins()).toEqual(expect.any(Function));
+  expect(fetchCoins()).toHaveReturned();
 });
