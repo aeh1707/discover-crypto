@@ -6,13 +6,13 @@ button {
   color: white;
   padding: 15px;
   font-weight: 700;
-  background-color:#486aad;
+  background-color: #486aad;
   font-size: 1.3rem;
   border: none;
 }
 
 .coin-info {
-  background-color:#486aad;;
+  background-color: #486aad;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -25,7 +25,7 @@ button {
 
 .coin-info-container {
   min-width: 350px;
-  color: #eeedeb;;
+  color: #eeedeb;
 }
 
 .coin-info-container > * {
@@ -44,5 +44,5 @@ button {
 }
 
 .bg-dark-blue {
-  background-color: #244fa7;;
+  background-color: #244fa7;
 }
