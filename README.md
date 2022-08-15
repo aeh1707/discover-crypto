@@ -6,6 +6,33 @@
 
 Check out a demo explanation about this project here [Live Video Demo Explainer](https://www.loom.com/share/0c43fbd5ba9b448ebd97848be08f17c5)
 
+## Getting Started
+
+**Clone the repo into your local machine.**
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+NPM should be installed
+
+### Install
+run `npm install` in the project folder.
+
+### Usage
+run `npm run start`.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- Webpack
+
+## Project Screenshot
+
+![discover-crypto-screenshot-1](https://user-images.githubusercontent.com/95165255/184696483-0347844c-98dd-4a46-a06f-8fd45f0b78a6.png)
+![discover-crypto-screenshot-2](https://user-images.githubusercontent.com/95165255/184696173-0e5aeec3-4251-4d6c-b13c-fa6ff93935e1.png)
+
 ## Built With
 
 - React
