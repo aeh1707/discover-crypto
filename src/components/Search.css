@@ -1,0 +1,15 @@
+.search {
+  background-image: url('./kanchanara-fsSGgTBoX9Y-unsplash.jpg');
+  background-size: cover;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  min-width: 300px;
+  font-size: 1.5rem;
+  padding: 10px;
+  border-radius: 50px;
+}

@@ -1,0 +1,42 @@
+.top-coins {
+  background-color: black;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:nth-child(odd) {
+  background-color: #486aad;
+}
+
+a:nth-child(even) {
+  background-color: #6b7a98;
+}
+
+.coin-brief {
+  /* border: 1px solid #eeedeb; */
+  color: #eeedeb;
+  max-width: 170px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.coin-image-container {
+  min-height: 175px;
+}
+
+.coin-image {
+  width: 140px;
+  margin: 0 auto;
+}
+
+.coin-symbol {
+  font-size: 1.7rem;
+  font-weight: 700;
+}
